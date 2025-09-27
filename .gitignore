@@ -1,0 +1,13 @@
+# Node / React
+node_modules/
+dist/
+
+# Python / ETL
+__pycache__/
+*.pyc
+.venv/
+
+# Configurações locais
+.env
+.DS_Store
+.vscode/
